@@ -1,3 +1,4 @@
 # ML
-klasifikasi gambar gunting batu kertas dengan datasets dari kaggle 
-menggunakan google colab
+-klasifikasi gambar gunting batu kertas dengan datasets dari kaggle 
+
+-menggunakan google colab atau jupyter notebook
